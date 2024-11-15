@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sosnagebre
-- 👀 I’m interested in ...
+- 👋 Hi, I’m sosnagebre
+- 👀 I’m interested developing 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me osy ebremeskel
+- 📫 How to reach me Sossygebremeskel@gmail.com
 - 😄 Pronouns: female
-- ⚡ Fun fact: ...
+- ⚡here is my portfolio
 
 <!---
 sosnagebre/sosnagebre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
